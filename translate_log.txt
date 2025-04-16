@@ -1,0 +1,17 @@
+
+Tüm Skill çeviri işlemi tamamlandı.
+Toplam süre: 3854.03 saniye
+Toplamda çevrilen harf sayısı: 281453
+Toplamda çevrilen kelime sayisi: 39980
+Kullanılan çeviri çevrimi: 150'şer skill'lık chunk'lar halinde, for-loop ile işlem yapıldı.
+All translations saved successfully in translated_skills.csv
+Toplam Maliyet: 0.20 USD
+
+
+
+Tüm Job Tittle çeviri işlemi tamamlandı.
+Toplam süre: ... saniye
+Toplamda çevrilen harf sayısı: 141797
+Toplamda çevrilen kelime sayisi: 18637
+Kullanılan çeviri çevrimi: 100'er job'luk chunk'lar halinde, for-loop ile işlem yapıldı.
+Toplam Maliyet: 0.14 USD
