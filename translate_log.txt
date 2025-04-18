@@ -6,6 +6,7 @@ Toplamda çevrilen kelime sayisi: 39980
 Kullanılan çeviri çevrimi: 150'şer skill'lık chunk'lar halinde, for-loop ile işlem yapıldı.
 All translations saved successfully in translated_skills.csv
 Toplam Maliyet: 0.20 USD
+Çevrilen Dil: Türkçe
 
 
 
@@ -15,3 +16,12 @@ Toplamda çevrilen harf sayısı: 141797
 Toplamda çevrilen kelime sayisi: 18637
 Kullanılan çeviri çevrimi: 100'er job'luk chunk'lar halinde, for-loop ile işlem yapıldı.
 Toplam Maliyet: 0.14 USD
+Çevrilen Dil: Türkçe
+
+
+Mtrain çeviri işlemi tamamlandı.
+Toplam süre: ... saniye
+Toplam çevrilen cümle sayısı: 837 + 837
+Kullanılan çeviri çevrimi: 17'şer chunk'lar halinde, for-loop ile işlem yapıldı.
+Toplam Maliyet: 0.02 USD
+Çevrilen Dil: Azerice + İngilizce
