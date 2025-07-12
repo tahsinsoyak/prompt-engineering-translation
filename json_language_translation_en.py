@@ -9,7 +9,7 @@ load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # --- 1. Read the source JSON ---
-input_file = "translation.json"
+input_file = "en.json"
 with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)  # :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
 
@@ -96,7 +96,7 @@ def unflatten_dict(flat: dict):
 output_data = unflatten_dict(translations)
 
 # --- 7. Write English JSON ---
-output_file = "translation_en.json"
+output_file = "yeni_translation_en.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(output_data, f, ensure_ascii=False, indent=2)
 

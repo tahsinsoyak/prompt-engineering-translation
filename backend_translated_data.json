@@ -1,0 +1,2369 @@
+{
+  "data": [
+    {
+      "value": ".GROUP",
+      "_name": ".Group",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Time Absent From Course",
+      "_name": "AbsentDuration",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Date of Access",
+      "_name": "AccessDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Active",
+      "_name": "Active",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Added",
+      "_name": "Added",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Address",
+      "_name": "Address",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Post-Course Manager",
+      "_name": "AfterCourseManagerTest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Post-Course",
+      "_name": "AfterCourseTest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "All requests were previously approved.",
+      "_name": "AllRequestApprovedBefore",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You have already rated this course.",
+      "_name": "AlreadyStarCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Analysis Period",
+      "_name": "AnalysisPeriod",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Analysis period information not found.",
+      "_name": "AnalysisPeriodInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Analysis Period Name",
+      "_name": "AnalysisPeriodName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Analysis period information not found.",
+      "_name": "AnalysisPeriodNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Analysis Period Year",
+      "_name": "AnalysisPeriodYear",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Important",
+      "_name": "AnnouncementImportance_Important",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Normal",
+      "_name": "AnnouncementImportance_Normal",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Daily",
+      "_name": "AnnouncementScheduleType_Daily",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "End of Day",
+      "_name": "AnnouncementScheduleType_DailyEnd",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Instant",
+      "_name": "AnnouncementScheduleType_Instant",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "End of Month",
+      "_name": "AnnouncementScheduleType_MonthEnd",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Monthly",
+      "_name": "AnnouncementScheduleType_Monthly",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Weekend",
+      "_name": "AnnouncementScheduleType_Weekend",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Weekly",
+      "_name": "AnnouncementScheduleType_Weekly",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "End of Year",
+      "_name": "AnnouncementScheduleType_YearEnd",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Yearly",
+      "_name": "AnnouncementScheduleType_Yearly",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Email",
+      "_name": "AnnouncementTypes_Mail",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Notification",
+      "_name": "AnnouncementTypes_Notification",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "SMS",
+      "_name": "AnnouncementTypes_Sms",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Answer",
+      "_name": "Answer",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "An error occurred in the application.",
+      "_name": "AppError",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Approved Requests",
+      "_name": "ApprovedRequests",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Mobile",
+      "_name": "AuthorizedChannel_Mobile",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Mobile Application",
+      "_name": "AuthorizedChannel_MobileApplication",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Web",
+      "_name": "AuthorizedChannel_Web",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Avatar cannot be empty.",
+      "_name": "AvatarNotBeEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Date of Birth",
+      "_name": "BirthDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Business Phone",
+      "_name": "BusinessNumber",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Job Title",
+      "_name": "BusinessTitle",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Calendar data source not found.",
+      "_name": "CalDSNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Calendar",
+      "_name": "Calender",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "My Group Change Requests",
+      "_name": "CalenderSourceType_GrouphangeRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Planned Courses",
+      "_name": "CalenderSourceType_PlaningCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "My Courses",
+      "_name": "CalenderSourceType_UserCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Capacity",
+      "_name": "Capacity",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Catalog URL",
+      "_name": "CatalogVideoUrl",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Certificate",
+      "_name": "Certificate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "ACHIEVEMENT CERTIFICATE",
+      "_name": "CertificateAchievement",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Certificate Name",
+      "_name": "CertificateName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "A certificate template with this name already exists.",
+      "_name": "CertificateSameName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Certificate Template Name",
+      "_name": "CertificateTemplateName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Certificate template not found.",
+      "_name": "CertificateTemplateNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Cities",
+      "_name": "Cities",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "City",
+      "_name": "City",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "City Code",
+      "_name": "CityCode",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "City Name",
+      "_name": "CityName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Class",
+      "_name": "Class",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Classes",
+      "_name": "Classes",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Class information not found.",
+      "_name": "ClassInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Class Name",
+      "_name": "ClassName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Classroom Change",
+      "_name": "ClassroomChange",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Classroom Course",
+      "_name": "ClassroomCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Company",
+      "_name": "Company",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Company information not found.",
+      "_name": "CompanyInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Completed",
+      "_name": "Completed",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Content Type",
+      "_name": "ContentType",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "In Progress",
+      "_name": "Continuing",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Correct answer not selected.",
+      "_name": "CorrectAnswerNotSelected",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course",
+      "_name": "Course",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "COURSE ATTENDANCE LIST",
+      "_name": "CourseAttendenceList",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Completed",
+      "_name": "CourseCompleted",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Completion Status",
+      "_name": "CourseCompletionStatus",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Classroom Course",
+      "_name": "CourseContentType_ClassroomCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Online Course",
+      "_name": "CourseContentType_OnlineCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Video Course",
+      "_name": "CourseContentType_VideoCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Virtual Classroom Course",
+      "_name": "CourseContentType_VirtualClassroomCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Date",
+      "_name": "CourseDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Duration",
+      "_name": "CourseDuration",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course End Date",
+      "_name": "CourseEndDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Non-Catalog Course",
+      "_name": "CourseExistingSatus_KatalogDisiEgitimi",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Catalog Course",
+      "_name": "CourseExistingSatus_KatalogIciEgitimi",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Completed",
+      "_name": "CourseFinished",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group Change Reason",
+      "_name": "CourseGroupChangeReason",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group Change Rejection Reason",
+      "_name": "CourseGroupChangeRejectReason",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course information not found.",
+      "_name": "CourseInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course In Progress",
+      "_name": "CourseInProgress",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Language",
+      "_name": "CourseLanguage",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Name",
+      "_name": "CourseName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course name is required for non-catalog requests.",
+      "_name": "CourseNameMustNonCatalog",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Ended",
+      "_name": "CoursePartStatus_CourseEnded",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Planned",
+      "_name": "CoursePartStatus_CoursePlanned",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Started",
+      "_name": "CoursePartStatus_CourseStarted",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Not Part of Course",
+      "_name": "CoursePartStatus_NotPartCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Plan Group Calendar",
+      "_name": "CoursePlanGroupCalendar",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Plan Name",
+      "_name": "CoursePlanName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Planning Group Name",
+      "_name": "CoursePlanningGroupName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "5 Days Before",
+      "_name": "CoursePlanningNotificationTime_Hour120",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "1 Day Before",
+      "_name": "CoursePlanningNotificationTime_Hour24",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "3 Hours Before",
+      "_name": "CoursePlanningNotificationTime_Hour3",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "2 Days Before",
+      "_name": "CoursePlanningNotificationTime_Hour48",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "6 Hours Before",
+      "_name": "CoursePlanningNotificationTime_Hour6",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "3 Days Before",
+      "_name": "CoursePlanningNotificationTime_Hour72",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Planning Schedule Hour",
+      "_name": "CoursePlanningScheduleHour",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Plans",
+      "_name": "CoursePlans",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Reminder",
+      "_name": "CourseReminder",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Report",
+      "_name": "CourseReport",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Directorate",
+      "_name": "CourseReportCardType_Directorate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Directorate",
+      "_name": "CourseReportCardType_HeadOfDepartment",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Personnel",
+      "_name": "CourseReportCardType_Personnel",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "The requested course request was not found.",
+      "_name": "CourseRequestNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course",
+      "_name": "CourseRequestReportType_Course",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Person Based",
+      "_name": "CourseRequestReportType_PersonBased",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Requests",
+      "_name": "CourseRequests",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Request Status",
+      "_name": "CourseRequestStatus",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Approved",
+      "_name": "CourseRequestStatus_Approved",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Draft",
+      "_name": "CourseRequestStatus_Draft",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Rejected",
+      "_name": "CourseRequestStatus_Rejected",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Requested",
+      "_name": "CourseRequestStatus_Requested",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Waiting for Approval",
+      "_name": "CourseRequestStatus_WaitingForApprovement",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Courses",
+      "_name": "Courses",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Start Date",
+      "_name": "CourseStartDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course status is not valid",
+      "_name": "CourseStatusNotValid",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Type",
+      "_name": "CourseType",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Personal Development Course",
+      "_name": "CourseType_KisiselGelisimEgitimi",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Professional Development Course",
+      "_name": "CourseType_MeslekiGelisimEgitimi",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "An error occurred during the CRUD operation.",
+      "_name": "CrudOperationError",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Date",
+      "_name": "Date",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Date Change",
+      "_name": "DateChange",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Date Change (Online)",
+      "_name": "DateChangeOnline",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Date information not found.",
+      "_name": "DateInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "days remaining.",
+      "_name": "DaysRemaining",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Deleted.",
+      "_name": "Deleted",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "File to be deleted not found.",
+      "_name": "DeleteFileNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Deleted Material",
+      "_name": "DeleteMaterial",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Description",
+      "_name": "Description",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Duration",
+      "_name": "Duration",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Email",
+      "_name": "Email",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Email address has already been used for registration.",
+      "_name": "EmailAlreadyUsed",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Email is required.",
+      "_name": "EmailIsRequired",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User email address not found.",
+      "_name": "EmailNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "End Date",
+      "_name": "EndDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "End date cannot be less than start date.",
+      "_name": "EndDateNotLessStart",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Ending Text",
+      "_name": "EndingText",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error adding data.",
+      "_name": "ErrorAddingData",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error deleting data.",
+      "_name": "ErrorDeletingData",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error fetching data.",
+      "_name": "ErrorFetchingData",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error listing data.",
+      "_name": "ErrorListData",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error assigning plan.",
+      "_name": "ErrorPlanAssigning",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Exam",
+      "_name": "Exam",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Exam duration must be at least 1.",
+      "_name": "ExamDurationMustBeAtLeastOne",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Excel headers are not in the expected order.",
+      "_name": "ExcelHeadersNotInExpectedOrder",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Expiration Date",
+      "_name": "ExpireDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Excel",
+      "_name": "ExportType_Excel",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Select",
+      "_name": "ExportType_NoAction",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "PDF",
+      "_name": "ExportType_Pdf",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Frequently Asked Question Category",
+      "_name": "FaqCategory",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Female",
+      "_name": "Female",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "File",
+      "_name": "File",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "File is empty.",
+      "_name": "FileEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "File information cannot be empty.",
+      "_name": "FileInfoNotEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "File not found.",
+      "_name": "FileNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Choose file type.",
+      "_name": "FileTypeChoose",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No data found with the given filter criteria.",
+      "_name": "FilteredDataNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Completed",
+      "_name": "Finished",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You must complete planning to generate a report.",
+      "_name": "FinishPlanForReport",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Frequently Asked Questions",
+      "_name": "FrequentlyAskedQuestions",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "from this date onwards.",
+      "_name": "FromDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Gate Card Number",
+      "_name": "GateCardNo",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Gender",
+      "_name": "Gender",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Female",
+      "_name": "Gender_Female",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Male",
+      "_name": "Gender_Male",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group Change",
+      "_name": "GroupChange",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group change information not found.",
+      "_name": "GroupChangeInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group change request not found.",
+      "_name": "GroupChangeNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Approved",
+      "_name": "GroupChangeRequestStatus_Approve",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Rejected",
+      "_name": "GroupChangeRequestStatus_Rejected",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Requested",
+      "_name": "GroupChangeRequestStatus_Request",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group information not found.",
+      "_name": "GroupInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group email already exists in the group.",
+      "_name": "GroupMailExist",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group Name",
+      "_name": "GroupName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No person registered in the group.",
+      "_name": "GroupPersonNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group planning information not found.",
+      "_name": "GroupPlanNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Hour",
+      "_name": "Hour",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "ID information cannot be empty.",
+      "_name": "IdInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "ID information not found.",
+      "_name": "IdNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "ID or status cannot be zero.",
+      "_name": "IdNotZero",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Image",
+      "_name": "Image",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Image size must not exceed 10MB.",
+      "_name": "ImageSize10Mb",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Initial Text",
+      "_name": "InitialText",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "In Progress",
+      "_name": "InProgress",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Instructor",
+      "_name": "Instructor",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No instructor found for this information.",
+      "_name": "InstructorInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Instructors",
+      "_name": "Instructors",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Cooperation",
+      "_name": "InstructorType_Cooperation",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "External",
+      "_name": "InstructorType_External",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Internal",
+      "_name": "InstructorType_Internal",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Invalid email address.",
+      "_name": "InvalidEmailAddress",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Invalid file format.",
+      "_name": "InvalidFileFormat",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Invalid phone number.",
+      "_name": "InvalidPhoneNumber",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Invited User",
+      "_name": "InvitedUser",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Justification Category",
+      "_name": "JustificationCategory",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Justification Category Name",
+      "_name": "JustificationCategoryName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Justification Reason Detail",
+      "_name": "JustificationReasonDetail",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Justification Reason Detail Name",
+      "_name": "JustificationReasonDetailName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Justification Reason Name",
+      "_name": "JustificationReasonName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Justification Reasons",
+      "_name": "JustificationReasons",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Justification Reason Tag",
+      "_name": "JustificationReasonTag",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Justification is required",
+      "_name": "JustificationRequiredField",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Language",
+      "_name": "Language",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Azerbaijani",
+      "_name": "Language_Azerbaijani",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "English",
+      "_name": "Language_English",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Turkish",
+      "_name": "Language_Turkish",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "List is empty.",
+      "_name": "ListEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Location",
+      "_name": "Location",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Location Name",
+      "_name": "LocationName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Locations",
+      "_name": "Locations",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User with sent mail cannot be deleted.",
+      "_name": "MailSentNotDeleted",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "In Progress",
+      "_name": "MailSmsProcess_Continue",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error Occurred",
+      "_name": "MailSmsProcess_Error",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Completed",
+      "_name": "MailSmsProcess_Finished",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Not Started",
+      "_name": "MailSmsProcess_NotStart",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Male",
+      "_name": "Male",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Mandatory request not assigned.",
+      "_name": "MandatoryRequestnotAssigned",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Material",
+      "_name": "Material",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Material Name",
+      "_name": "MaterialName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "The group you want to transfer to is full.",
+      "_name": "MaxCapacityGroup",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Your current group is at minimum capacity.",
+      "_name": "MincapacityGroup",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "At least 2 choice questions can be defined.",
+      "_name": "MinimumTwoChoicesRequired",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Minute",
+      "_name": "Minute",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Manager email is empty.",
+      "_name": "MngEmailEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Manager email is invalid.",
+      "_name": "MngEmailInvalid",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Manager information not found.",
+      "_name": "MngInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group change request with no response from manager cannot be deleted.",
+      "_name": "MngResponseNotDelete",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Model cannot be empty.",
+      "_name": "ModelNotEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You have sent too many personal development course requests.",
+      "_name": "MoreThanPersonelCourseRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You have sent too many professional development course requests.",
+      "_name": "MoreThanProfCourseRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "must be",
+      "_name": "MustBe",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You must complete the course.",
+      "_name": "MustCompleteCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Name and surname not found.",
+      "_name": "NameInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Name and Surname",
+      "_name": "NameSurname",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "New Course Plan",
+      "_name": "NewCoursePlan",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "New Group",
+      "_name": "NewGroup",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "New Group Location and Date",
+      "_name": "NewLocationDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "New Online Course Plan",
+      "_name": "NewOnlineCoursePlan",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "New record cannot be created here.",
+      "_name": "NewRecordNotAllowedHere",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "New Virtual Class Course Plan",
+      "_name": "NewVirtualClassCoursePlan",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No",
+      "_name": "No",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No active analysis period.",
+      "_name": "NoActivePeriod",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No answered questions.",
+      "_name": "NoAnsweredItems",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You have unanswered requests.",
+      "_name": "NoAnswerRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No Approved Request",
+      "_name": "NoApprovedRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You are not authorized",
+      "_name": "NoAuth",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No calendar created yet",
+      "_name": "NoCalendarYet",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Approved and rejected requests cannot be changed",
+      "_name": "NoChangeRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You have not set the course end date",
+      "_name": "NoCourseEndDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You cannot select a date before today",
+      "_name": "NoDateBeforeToday",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You cannot add a new date without finishing the planning",
+      "_name": "NoDateFinishPlan",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Non-Catalog Course Request",
+      "_name": "NonCatalogCourseRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No Parent Folder",
+      "_name": "NoParentFolder",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You do not have permission to delete the course plan",
+      "_name": "NoPermissionDeletePlan",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No one is in the group",
+      "_name": "NoPersonGroup",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No planning found to update the status",
+      "_name": "NoPlanUpdateStatus",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You cannot request more non-catalog courses",
+      "_name": "NoRequestNonCatalog",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You cannot assign the same instructor",
+      "_name": "NoSameInstructor",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You have not set the group dates",
+      "_name": "NoSetDateGroup",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Did Not Attend",
+      "_name": "NotAttend",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You cannot change the name of the certificate",
+      "_name": "NotChangeNameCertificate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Hours Not Attended",
+      "_name": "NotComeHour",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Active analysis period cannot be deleted",
+      "_name": "NotDeleteActivePeriod",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Approved request cannot be deleted",
+      "_name": "NotDeleteApprovedRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request created by the manager cannot be deleted",
+      "_name": "NotDeleteMngRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Not Found",
+      "_name": "NotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No rules found for the staff",
+      "_name": "NotFoundRulesStaff",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No staff members found",
+      "_name": "NotFoundStaffs",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Announcement not found",
+      "_name": "NotifyNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You cannot create a new request while having an unapproved request",
+      "_name": "NotNewRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "cannot be null",
+      "_name": "NotNull",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request assigned by the manager cannot be rejected",
+      "_name": "NotRejectMngAssignRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Personal development course cannot be rejected",
+      "_name": "NotRejectPeronelCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You cannot request more personal development courses",
+      "_name": "NotRequestPersonelCourseMost",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You cannot request more professional development courses",
+      "_name": "NotRequestProfCourseMost",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Email could not be sent",
+      "_name": "NotSendMail",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Not Started",
+      "_name": "NotStarted",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No users added yet",
+      "_name": "NoUsersAdded",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Number of Compulsory Courses to be Assigned",
+      "_name": "NumberOfCompulsoryCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Old Group",
+      "_name": "OldGroup",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Online Course",
+      "_name": "OnlineCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Online Course Reminder",
+      "_name": "OnlineCourseReminder",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Only the end date of the active analysis period can be changed",
+      "_name": "OnlyEndDateChange",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Option",
+      "_name": "Option",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Order",
+      "_name": "Order",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Order Number",
+      "_name": "OrderNumber",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Organization",
+      "_name": "Organization",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error occurred while adding organizations",
+      "_name": "OrganizationAddError",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "No organization data",
+      "_name": "OrganizationDataEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Analyst",
+      "_name": "OrganizationLevelForApp_analysisId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "C Level",
+      "_name": "OrganizationLevelForApp_cLevelId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Director",
+      "_name": "OrganizationLevelForApp_directorId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Junior Specialist",
+      "_name": "OrganizationLevelForApp_juniorId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Manager",
+      "_name": "OrganizationLevelForApp_managerId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Expert",
+      "_name": "OrganizationLevelForApp_seniorId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Senior Expert",
+      "_name": "OrganizationLevelForApp_seniorSpecialistId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Team Leader",
+      "_name": "OrganizationLevelForApp_teamLeaderId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Top Management",
+      "_name": "OrganizationLevelForApp_topManagementId",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Organization not found.",
+      "_name": "OrganizationNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Organizer",
+      "_name": "OrganizerUser",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Organization ID not found.",
+      "_name": "OrgIdNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User organization level not found.",
+      "_name": "OrgLvlIdNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "There is another course in this date range.",
+      "_name": "OtherCourseDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "There is another course in this classroom during that period.",
+      "_name": "OtherCourseDateClass",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "This instructor has another course during that period.",
+      "_name": "OtherCourseDateInstructor",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Out of Catalog Request List",
+      "_name": "OutOfCatalogLimit",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Pagination error occurred.",
+      "_name": "PaginationError",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Pagination error occurred.",
+      "_name": "PagingError",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "One of the parameters must be filled.",
+      "_name": "ParametersNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Parent Organization",
+      "_name": "ParentOrganization",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Participant List",
+      "_name": "ParticipantList",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Participants",
+      "_name": "ParticipateCount",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Participation Rate",
+      "_name": "ParticipateRate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Participation Status",
+      "_name": "ParticipationStatus",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Inactive",
+      "_name": "Passive",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Passwords do not match.",
+      "_name": "PasswordsNotMatch",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Permission is only available for managers and above.",
+      "_name": "PermissionForManagerAndAboveOnly",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Personal Development Course",
+      "_name": "PersonelDevelopmentCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Mobile Phone",
+      "_name": "PhoneNumber",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Planned course date not found.",
+      "_name": "PlanDateNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Planning information not found.",
+      "_name": "PlanInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Classroom Change",
+      "_name": "PlanningMailSendTypes_ChangeClassRoomMail",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Date Change",
+      "_name": "PlanningMailSendTypes_ChangeDateMail",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group Change",
+      "_name": "PlanningMailSendTypes_ChangeGroupMail",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Delete Outlook Calendar",
+      "_name": "PlanningMailSendTypes_DeleteOutlook",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "New Course Assignment",
+      "_name": "PlanningMailSendTypes_NewCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Reminder Emails",
+      "_name": "PlanningMailSendTypes_RemainderMail",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Select from Catalog",
+      "_name": "PlanningSourceType_KatalogEgitimi",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Select from Requests",
+      "_name": "PlanningSourceType_TalepEgitimi",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "In Progress",
+      "_name": "PlanningStatus_Continuing",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Planning Completed",
+      "_name": "PlanningStatus_FinishPlanning",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Planned users not found.",
+      "_name": "PlanUsersNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Pre-Course",
+      "_name": "PreCourseTest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "This course was previously requested or rejected.",
+      "_name": "PrevRequestedOrRejected",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Professional Development Course",
+      "_name": "ProfDevelopmentCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Question",
+      "_name": "Question",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Question Option Type",
+      "_name": "QuestionOptionType",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Free Text",
+      "_name": "QuestionOptionType_FreeText",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Multiple Choice",
+      "_name": "QuestionOptionType_MultipleSelection",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Single Choice",
+      "_name": "QuestionOptionType_SingleSelection",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Disagree",
+      "_name": "QuestionOptionValue_Score1",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Neutral",
+      "_name": "QuestionOptionValue_Score2",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Partially Agree",
+      "_name": "QuestionOptionValue_Score3",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Agree",
+      "_name": "QuestionOptionValue_Score4",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Strongly Agree",
+      "_name": "QuestionOptionValue_Score5",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Reason",
+      "_name": "Reason",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Registry Number",
+      "_name": "RegisterNo",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User registry number not found.",
+      "_name": "RegisterNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Rejection reason cannot be empty.",
+      "_name": "RejectReasonNotEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Rejection Reason Not Found",
+      "_name": "RejectReasonNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Rejected request.",
+      "_name": "RejectRequest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "reports by organization",
+      "_name": "ReportOrganizationBase",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Print all reports.",
+      "_name": "ReportPrintAll",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Can Be Requested",
+      "_name": "Requestable",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request Approval Percentage",
+      "_name": "RequestApprovalPercentage",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request Approval Rejection",
+      "_name": "RequestApprovalRejection",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "To request this course, first",
+      "_name": "RequestCourseFirst",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request Date",
+      "_name": "RequestDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Requester",
+      "_name": "Requester",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error occurred while receiving the request.",
+      "_name": "RequestError",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request not found.",
+      "_name": "RequestNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request rate is at least",
+      "_name": "RequestRateLeast",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Request Rejection Reason",
+      "_name": "RequestRejectReason",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request Approval Rejection Name",
+      "_name": "RequestRejectReasonName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request Approval Rejection Type",
+      "_name": "RequestRejectReasonType",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Request has already been sent.",
+      "_name": "RequestSentBefore",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Approval Required",
+      "_name": "RequireApproval",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Role",
+      "_name": "Role",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error occurred while planning, records were rolled back",
+      "_name": "RollbackPlan",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Rules",
+      "_name": "Rules",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "A city with this name already exists.",
+      "_name": "SameNameCity",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Score",
+      "_name": "Score",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Scorm cannot be empty.",
+      "_name": "ScormNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Second",
+      "_name": "Second",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Service username not found.",
+      "_name": "ServiceNameNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "You entered the service username incorrectly.",
+      "_name": "ServiceNameWrong",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Signature",
+      "_name": "Signature",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "SIGNATURE LIST",
+      "_name": "SignatureList",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Size",
+      "_name": "Size",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Sp Name cannot be empty.",
+      "_name": "SpNameNotNull",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Start Date",
+      "_name": "StartDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Start of Process",
+      "_name": "StartOfProcess",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Status",
+      "_name": "Status",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Successful",
+      "_name": "Success",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Survey",
+      "_name": "Survey",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Evaluation of the Course Environment",
+      "_name": "SurveyCategoryType_CourseLocationEvaluation",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Planning and Implementation",
+      "_name": "SurveyCategoryType_CoursePlan",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Completion Outcomes",
+      "_name": "SurveyCategoryType_EndOfCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Participant Profile",
+      "_name": "SurveyCategoryType_ExhibitorProfile",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "General Evaluation",
+      "_name": "SurveyCategoryType_GeneralEvaluation",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Evaluation of the Instructor",
+      "_name": "SurveyCategoryType_InsructorEvaluation",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Survey Name",
+      "_name": "SurveyName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Survey not found.",
+      "_name": "SurveyNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Survey Type",
+      "_name": "SurveyType",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "After Course",
+      "_name": "SurveyType_AfterCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "After Course Manager",
+      "_name": "SurveyType_AfterCourseManager",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Other Surveys",
+      "_name": "SurveyType_OtherSurvey",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Before Course",
+      "_name": "SurveyType_PreCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Request Rejection Reason",
+      "_name": "TalepRejectReasons_CourseRequestRejectReason",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group Change Reason",
+      "_name": "TalepRejectReasons_GroupChangeReason",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group Change Rejection Reason",
+      "_name": "TalepRejectReasons_GroupChangeRejectReason",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Target Date",
+      "_name": "TargetDate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Template information not found",
+      "_name": "TemplateInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Test",
+      "_name": "Test",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User test course item cannot be updated.",
+      "_name": "TestCourseNotUpdate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Test Duration",
+      "_name": "TestDuration",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Test Description",
+      "_name": "TestExplanation",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Test information not found.",
+      "_name": "TestInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Test Name",
+      "_name": "TestName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "After Course",
+      "_name": "TestType_AfterCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "After Course Manager",
+      "_name": "TestType_AfterCourseManager",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Before Course",
+      "_name": "TestType_PreCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Title",
+      "_name": "Title",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Topic",
+      "_name": "Topic",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Top Menu Content",
+      "_name": "TopMenuContent",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Total Course Hours",
+      "_name": "TotalCourseHour",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "District",
+      "_name": "Town",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "District Name",
+      "_name": "TownName",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Districts",
+      "_name": "Towns",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Promotional Video URL",
+      "_name": "TrailerUrl",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Type",
+      "_name": "Type",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Update",
+      "_name": "Update",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error occurred during update",
+      "_name": "UpdateErrorData",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Update operation cannot be performed.",
+      "_name": "UpdateProcessNot",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User course date information not found.",
+      "_name": "UserCourseDateNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User course information not found.",
+      "_name": "UserCourseInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User Course Status",
+      "_name": "UserCourseStatus",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course status information cannot be empty.",
+      "_name": "UserCourseStatusRequired",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Certificate",
+      "_name": "UserCourseStatus_Certificate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Completed",
+      "_name": "UserCourseStatus_Completed",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Started",
+      "_name": "UserCourseStatus_CourseBegin",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Finished",
+      "_name": "UserCourseStatus_CourseFinish",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Course Not Started",
+      "_name": "UserCourseStatus_CourseNotBegin",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Group Change",
+      "_name": "UserCourseStatus_GroupChange",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Not Participated",
+      "_name": "UserCourseStatus_NotParticipate",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Waiting for Planning Approval",
+      "_name": "UserCourseStatus_PlnaninFinish",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Post Survey",
+      "_name": "UserCourseStatus_PostSurvey",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Post Test",
+      "_name": "UserCourseStatus_PostTest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Pre Survey",
+      "_name": "UserCourseStatus_PreSurvey",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Pre Test",
+      "_name": "UserCourseStatus_PreTest",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User email information is empty.",
+      "_name": "UserEmailEmpty",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User email is invalid.",
+      "_name": "UserEmailInvalid",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User group date information not found.",
+      "_name": "UserGroupDateNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User Guide URL",
+      "_name": "UserGuideUrl",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User GUID Not Found",
+      "_name": "UserGuidNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User ID Not Found",
+      "_name": "UserIdNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User Information Not Found",
+      "_name": "UserInfoNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User Email Already Exists",
+      "_name": "UserMailExist",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Username Not Found",
+      "_name": "UserNameNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User Not Found",
+      "_name": "UserNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User Is Not Logged In",
+      "_name": "UserNotLogin",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User Roles Not Found",
+      "_name": "UserRolesNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Error In User Session Information",
+      "_name": "UserSessionError",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "User Session Information Not Found",
+      "_name": "UserSessionNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Users Not Found",
+      "_name": "UsersNotFound",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Completed",
+      "_name": "UserSurveyStatus_Completed",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "In Progress",
+      "_name": "UserSurveyStatus_Continuing",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Not Started",
+      "_name": "UserSurveyStatus_NotStarted",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Completed",
+      "_name": "UserTestStatus_Completed",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "In Progress",
+      "_name": "UserTestStatus_Continuing",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Not Started",
+      "_name": "UserTestStatus_NotStarted",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Video Course",
+      "_name": "VideoCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Virtual Class",
+      "_name": "VirtualClass",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Virtual Classroom Course",
+      "_name": "VirtualClassroomCourse",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Waiting To Start",
+      "_name": "WaitingToStart",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Year",
+      "_name": "Year",
+      "_xml:space": "preserve"
+    },
+    {
+      "value": "Yes",
+      "_name": "Yes",
+      "_xml:space": "preserve"
+    }
+  ]
+}

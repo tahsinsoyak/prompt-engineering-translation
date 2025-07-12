@@ -1,0 +1,2369 @@
+{ "data": [
+	{
+		"value": ".GRUP",
+		"_name": ".Group",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitime Katılmayan Süre",
+		"_name": "AbsentDuration",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Erişim Tarihi",
+		"_name": "AccessDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Aktif",
+		"_name": "Active",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eklendi",
+		"_name": "Added",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Adres",
+		"_name": "Address",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Sonrası Yönetici",
+		"_name": "AfterCourseManagerTest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Sonrası",
+		"_name": "AfterCourseTest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bütün talepler daha önce onaylanmış.",
+		"_name": "AllRequestApprovedBefore",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu eğitime daha önce yıldız vermişsiniz.",
+		"_name": "AlreadyStarCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Analiz Dönemi",
+		"_name": "AnalysisPeriod",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Analiz dönemi bilgileri bulunamadı.",
+		"_name": "AnalysisPeriodInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Analiz Dönemi Adı",
+		"_name": "AnalysisPeriodName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Analiz dönemi bilgileri bulunmadı.",
+		"_name": "AnalysisPeriodNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Analiz Dönemi Yılı",
+		"_name": "AnalysisPeriodYear",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Önemli",
+		"_name": "AnnouncementImportance_Important",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Normal",
+		"_name": "AnnouncementImportance_Normal",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Günlük",
+		"_name": "AnnouncementScheduleType_Daily",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gün Sonu",
+		"_name": "AnnouncementScheduleType_DailyEnd",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Anlık",
+		"_name": "AnnouncementScheduleType_Instant",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Ay sonu",
+		"_name": "AnnouncementScheduleType_MonthEnd",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Aylık",
+		"_name": "AnnouncementScheduleType_Monthly",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Hafta Sonu",
+		"_name": "AnnouncementScheduleType_Weekend",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Haftalık",
+		"_name": "AnnouncementScheduleType_Weekly",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yıl sonu",
+		"_name": "AnnouncementScheduleType_YearEnd",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yıllık",
+		"_name": "AnnouncementScheduleType_Yearly",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Mail",
+		"_name": "AnnouncementTypes_Mail",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bildirim",
+		"_name": "AnnouncementTypes_Notification",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sms",
+		"_name": "AnnouncementTypes_Sms",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Cevap",
+		"_name": "Answer",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Uygulamada hata alındı.",
+		"_name": "AppError",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onaylanmış Talepler",
+		"_name": "ApprovedRequests",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Mobil",
+		"_name": "AuthorizedChannel_Mobile",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Mobil Uygulama",
+		"_name": "AuthorizedChannel_MobileApplication",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Web",
+		"_name": "AuthorizedChannel_Web",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Avatar boş olamaz.",
+		"_name": "AvatarNotBeEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Doğum Tarihi",
+		"_name": "BirthDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İş Telefonu",
+		"_name": "BusinessNumber",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İş Ünvanı",
+		"_name": "BusinessTitle",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Takvim veri kaynağı bulunamadı.",
+		"_name": "CalDSNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Takvim",
+		"_name": "Calender",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup Değişikliği Taleplerim",
+		"_name": "CalenderSourceType_GrouphangeRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlanmış Eğitimler",
+		"_name": "CalenderSourceType_PlaningCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitimlerim",
+		"_name": "CalenderSourceType_UserCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kapasite",
+		"_name": "Capacity",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Katalog Url",
+		"_name": "CatalogVideoUrl",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sertifika",
+		"_name": "Certificate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "BAŞARI BELGESİ",
+		"_name": "CertificateAchievement",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sertifika İsmi",
+		"_name": "CertificateName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu isimde sertifika şablonu bulunmaktadır.",
+		"_name": "CertificateSameName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sertifika Şablon İsmi",
+		"_name": "CertificateTemplateName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sertifika şablonu bulunamadı.",
+		"_name": "CertificateTemplateNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Şehirler",
+		"_name": "Cities",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Şehir",
+		"_name": "City",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Şehir Kodu",
+		"_name": "CityCode",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Şehir İsmi",
+		"_name": "CityName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sınıf",
+		"_name": "Class",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sınıflar",
+		"_name": "Classes",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sınıf bilgileri bulunamadı.",
+		"_name": "ClassInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sınıf İsmi",
+		"_name": "ClassName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Salon Değişikliği",
+		"_name": "ClassroomChange",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sınıfiçi Eğitim",
+		"_name": "ClassroomCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Şirket",
+		"_name": "Company",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Şirket bilgisi bulunamadı.",
+		"_name": "CompanyInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bitti",
+		"_name": "Completed",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İçerik Tipi",
+		"_name": "ContentType",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Devam Ediyor",
+		"_name": "Continuing",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Doğru cevap seçeneği işaretlenmedi.",
+		"_name": "CorrectAnswerNotSelected",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim",
+		"_name": "Course",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "DERS YOKLAMA LİSTESİ",
+		"_name": "CourseAttendenceList",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Bitti",
+		"_name": "CourseCompleted",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitimi Tamamlama Durumu",
+		"_name": "CourseCompletionStatus",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sınıfiçi Eğitim",
+		"_name": "CourseContentType_ClassroomCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Online Eğitim",
+		"_name": "CourseContentType_OnlineCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Video Eğitimi",
+		"_name": "CourseContentType_VideoCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sanal Sınıf Eğitimi",
+		"_name": "CourseContentType_VirtualClassroomCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Tarihi",
+		"_name": "CourseDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Süresi",
+		"_name": "CourseDuration",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Bitiş Tarihi",
+		"_name": "CourseEndDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katalog Dışı Eğitim",
+		"_name": "CourseExistingSatus_KatalogDisiEgitimi",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katalog İçi Eğitim",
+		"_name": "CourseExistingSatus_KatalogIciEgitimi",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kurs Tamamlandı",
+		"_name": "CourseFinished",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup Değiştirme Sebebi",
+		"_name": "CourseGroupChangeReason",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup Değiştirme Red Sebebi",
+		"_name": "CourseGroupChangeRejectReason",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim bilgisi bulunamadı.",
+		"_name": "CourseInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Devam Ediyor",
+		"_name": "CourseInProgress",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Dili",
+		"_name": "CourseLanguage",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Adı",
+		"_name": "CourseName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katalog dışı taleplerde eğitim adı zorunludur.",
+		"_name": "CourseNameMustNonCatalog",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Bitti",
+		"_name": "CoursePartStatus_CourseEnded",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Planlandı",
+		"_name": "CoursePartStatus_CoursePlanned",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Başladı",
+		"_name": "CoursePartStatus_CourseStarted",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitime Katılmadı",
+		"_name": "CoursePartStatus_NotPartCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Planı Grup Takvimi",
+		"_name": "CoursePlanGroupCalendar",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Plan Adı",
+		"_name": "CoursePlanName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Planlama Grup Adı",
+		"_name": "CoursePlanningGroupName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "5 Gün Önce",
+		"_name": "CoursePlanningNotificationTime_Hour120",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "1 Gün Önce",
+		"_name": "CoursePlanningNotificationTime_Hour24",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "3 Saat Önce",
+		"_name": "CoursePlanningNotificationTime_Hour3",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "2 Gün Önce",
+		"_name": "CoursePlanningNotificationTime_Hour48",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "6 Saat Önce",
+		"_name": "CoursePlanningNotificationTime_Hour6",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "3 Gün Önce",
+		"_name": "CoursePlanningNotificationTime_Hour72",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Planlama Zamanlama Saati",
+		"_name": "CoursePlanningScheduleHour",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Planları",
+		"_name": "CoursePlans",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Hatırlatması",
+		"_name": "CourseReminder",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Raporu",
+		"_name": "CourseReport",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Müdürlük",
+		"_name": "CourseReportCardType_Directorate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Direktörlük",
+		"_name": "CourseReportCardType_HeadOfDepartment",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Personel",
+		"_name": "CourseReportCardType_Personnel",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep edilen istek bulunamadı.",
+		"_name": "CourseRequestNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim",
+		"_name": "CourseRequestReportType_Course",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kişi Bazlı",
+		"_name": "CourseRequestReportType_PersonBased",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Talepleri",
+		"_name": "CourseRequests",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kurs Talep Durumu",
+		"_name": "CourseRequestStatus",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onaylandı",
+		"_name": "CourseRequestStatus_Approved",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Taslak",
+		"_name": "CourseRequestStatus_Draft",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Reddedildi",
+		"_name": "CourseRequestStatus_Rejected",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep edildi",
+		"_name": "CourseRequestStatus_Requested",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onay bekliyor",
+		"_name": "CourseRequestStatus_WaitingForApprovement",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitimler",
+		"_name": "Courses",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Başlama Tarihi",
+		"_name": "CourseStartDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kurs statüsü uygun değil",
+		"_name": "CourseStatusNotValid",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Tipi",
+		"_name": "CourseType",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kişisel Gelişim Eğitimi",
+		"_name": "CourseType_KisiselGelisimEgitimi",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Mesleki Gelişim Eğitimi",
+		"_name": "CourseType_MeslekiGelisimEgitimi",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Crud işleminde hata alındı.",
+		"_name": "CrudOperationError",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tarih",
+		"_name": "Date",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tarih Değişikliği",
+		"_name": "DateChange",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tarih Değişikliği (Online)",
+		"_name": "DateChangeOnline",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tarih bilgileri bulunamadı.",
+		"_name": "DateInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "gün kaldı.",
+		"_name": "DaysRemaining",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Silindi.",
+		"_name": "Deleted",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Silinececek dosya bulunamadı.",
+		"_name": "DeleteFileNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Silinmiş Materyal",
+		"_name": "DeleteMaterial",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Açıklama",
+		"_name": "Description",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Süre",
+		"_name": "Duration",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Email",
+		"_name": "Email",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Email adresi daha önce kayıt için kullanılmıştır.",
+		"_name": "EmailAlreadyUsed",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Mail bilgisi girilmesi zorunludur.",
+		"_name": "EmailIsRequired",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı mail adresi bulunamadı.",
+		"_name": "EmailNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bitiş Tarihi",
+		"_name": "EndDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bitiş tarihi başlangıç tarihinden küçük olamaz.",
+		"_name": "EndDateNotLessStart",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bitiş Metni",
+		"_name": "EndingText",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Veri eklenirken hata alındı.",
+		"_name": "ErrorAddingData",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Veri silinirken hata alındı.",
+		"_name": "ErrorDeletingData",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Veri çekilirken hata alındı.",
+		"_name": "ErrorFetchingData",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Veri listelenirken hata alındı.",
+		"_name": "ErrorListData",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlama atanırken hata aldı.",
+		"_name": "ErrorPlanAssigning",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sınav",
+		"_name": "Exam",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sınav süresi en az 1 olmalı.",
+		"_name": "ExamDurationMustBeAtLeastOne",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Excel başlıkları beklenen sırada değil.",
+		"_name": "ExcelHeadersNotInExpectedOrder",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Geçerlilik Tarihi",
+		"_name": "ExpireDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Excel",
+		"_name": "ExportType_Excel",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Seçiniz",
+		"_name": "ExportType_NoAction",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Pdf",
+		"_name": "ExportType_Pdf",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sıkça Sorulan Soru Kategorisi",
+		"_name": "FaqCategory",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kadın",
+		"_name": "Female",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dosya",
+		"_name": "File",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dosya boş.",
+		"_name": "FileEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dosya bilgisi boş olamaz",
+		"_name": "FileInfoNotEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dosya bulunamadı.",
+		"_name": "FileNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dosya türünü şeçiniz.",
+		"_name": "FileTypeChoose",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Girilmiş olan kriterlerle filtrelenmiş bir veri bulunmuyor.",
+		"_name": "FilteredDataNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tamamlandı",
+		"_name": "Finished",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Rapor almak için planlamayı bitirmeniz gerekmektedir.",
+		"_name": "FinishPlanForReport",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sıkça Sorulan Sorular",
+		"_name": "FrequentlyAskedQuestions",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "tarihinden itibaren yapabilirsiniz.",
+		"_name": "FromDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kapı Kart No",
+		"_name": "GateCardNo",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Cinsiyet",
+		"_name": "Gender",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kadın",
+		"_name": "Gender_Female",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Erkek",
+		"_name": "Gender_Male",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup değişikliği",
+		"_name": "GroupChange",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup değiştirme bilgisi bulunamadı.",
+		"_name": "GroupChangeInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup değişiklik talebi bulunamadı.",
+		"_name": "GroupChangeNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onaylandı",
+		"_name": "GroupChangeRequestStatus_Approve",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Reddedildi",
+		"_name": "GroupChangeRequestStatus_Rejected",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep Edildi",
+		"_name": "GroupChangeRequestStatus_Request",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup bilgileri bulunamadı.",
+		"_name": "GroupInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup mail grubunda var.",
+		"_name": "GroupMailExist",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup Adı",
+		"_name": "GroupName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gruba kayıtlı kişi bulunamadı.",
+		"_name": "GroupPersonNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup planlama bilgileri bulunamadı.",
+		"_name": "GroupPlanNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Saat",
+		"_name": "Hour",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Id bilgisi boş olamaz.",
+		"_name": "IdInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Id bilgisi bulunamadı.",
+		"_name": "IdNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Id veya status 0 olamaz.",
+		"_name": "IdNotZero",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Resim",
+		"_name": "Image",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Resim boyutu en fazla 10Mb olmalı.",
+		"_name": "ImageSize10Mb",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlangıç Metni",
+		"_name": "InitialText",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Devam Ediyor",
+		"_name": "InProgress",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitmen",
+		"_name": "Instructor",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu bilgiye ait eğitimci bulunamadı.",
+		"_name": "InstructorInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitmenler",
+		"_name": "Instructors",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İşbirliği",
+		"_name": "InstructorType_Cooperation",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dış",
+		"_name": "InstructorType_External",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İç",
+		"_name": "InstructorType_Internal",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Email adresi hatalı.",
+		"_name": "InvalidEmailAddress",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dosya formatı uygun değil.",
+		"_name": "InvalidFileFormat",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Telefon numarası hatalı",
+		"_name": "InvalidPhoneNumber",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Davet Edilen",
+		"_name": "InvitedUser",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçelendirme Kategorisi",
+		"_name": "JustificationCategory",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçelendirme Kategori Adı",
+		"_name": "JustificationCategoryName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçelendirme Sebep Detayı",
+		"_name": "JustificationReasonDetail",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçelendirme Sebep Detayı Adı",
+		"_name": "JustificationReasonDetailName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçelendirme Sebep Adı",
+		"_name": "JustificationReasonName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçelendirme Sebepleri",
+		"_name": "JustificationReasons",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçelendirme Sebep Etiketi",
+		"_name": "JustificationReasonTag",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçelendirme zorunlu alan",
+		"_name": "JustificationRequiredField",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dil",
+		"_name": "Language",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Azerice",
+		"_name": "Language_Azerbaijani",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İngilizce",
+		"_name": "Language_English",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Türkçe",
+		"_name": "Language_Turkish",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Liste boş.",
+		"_name": "ListEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Lokasyon",
+		"_name": "Location",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Lokasyon İsmi",
+		"_name": "LocationName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Lokasyonlar",
+		"_name": "Locations",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Mail gönderilen kullanıcı silinemez.",
+		"_name": "MailSentNotDeleted",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Devam Ediyor",
+		"_name": "MailSmsProcess_Continue",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Hata Aldı",
+		"_name": "MailSmsProcess_Error",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bitti",
+		"_name": "MailSmsProcess_Finished",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlamadı",
+		"_name": "MailSmsProcess_NotStart",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Erkek",
+		"_name": "Male",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Zorunlu talep atanmamış.",
+		"_name": "MandatoryRequestnotAssigned",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Materyal",
+		"_name": "Material",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Materyal Adı",
+		"_name": "MaterialName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Geçmek istediğiniz grubun kapasitesi dolu.",
+		"_name": "MaxCapacityGroup",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bulunduğunuz grup minumum kapasitede.",
+		"_name": "MincapacityGroup",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "En az 2 seçenekli soru tanımlanabilir.",
+		"_name": "MinimumTwoChoicesRequired",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Dakika",
+		"_name": "Minute",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yönetici mail boş.",
+		"_name": "MngEmailEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yönetici mail geçersiz.",
+		"_name": "MngEmailInvalid",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yönetici bilgileri bulunamadı.",
+		"_name": "MngInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yöneticiden geri dönüş olmayan grup değişiklik talebi silinemez.",
+		"_name": "MngResponseNotDelete",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Model boş olamaz.",
+		"_name": "ModelNotEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "tane fazla kişisel gelişim kurs talebi gönderdiniz.",
+		"_name": "MoreThanPersonelCourseRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "tane fazla mesleki gelişim kurs talebi gönderdiniz.",
+		"_name": "MoreThanProfCourseRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "olmalı.",
+		"_name": "MustBe",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "kursunu tamamlamanız gerekmektedir.",
+		"_name": "MustCompleteCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Adı soyadı bulunamadı.",
+		"_name": "NameInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Adı Soyadı",
+		"_name": "NameSurname",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yeni Eğitim Planı",
+		"_name": "NewCoursePlan",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yeni Grubu",
+		"_name": "NewGroup",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yeni Grup Lokasyon ve Tarih",
+		"_name": "NewLocationDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yeni Online Eğitim Planı",
+		"_name": "NewOnlineCoursePlan",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yeni kayıt buradan yapılamaz.",
+		"_name": "NewRecordNotAllowedHere",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yeni Sanal Sınıf Eğitim Planı",
+		"_name": "NewVirtualClassCoursePlan",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Hayır",
+		"_name": "No",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Aktif analiz dönemi bulunmuyor.",
+		"_name": "NoActivePeriod",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Cevaplanmış soru yok.",
+		"_name": "NoAnsweredItems",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Cevaplanmamış talebiniz bulunuyor.",
+		"_name": "NoAnswerRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onaylanmış talep yok.",
+		"_name": "NoApprovedRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yetkiniz yok.",
+		"_name": "NoAuth",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Henüz takvim oluşturulmamış.",
+		"_name": "NoCalendarYet",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onaylanmış ve reddedilmiş talepler değiştirilemez.",
+		"_name": "NoChangeRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitimin bitiş tarihini belirlemediniz.",
+		"_name": "NoCourseEndDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bugünden önce bir tarih seçemezsiniz.",
+		"_name": "NoDateBeforeToday",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlamayı bitir demeden yeni tarih ekleyemezsiniz.",
+		"_name": "NoDateFinishPlan",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katalog Dışı Eğitim Talebi",
+		"_name": "NonCatalogCourseRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Üst Klasör Yok",
+		"_name": "NoParentFolder",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim planı silmek için yetkiniz yok.",
+		"_name": "NoPermissionDeletePlan",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grupta kimse yok.",
+		"_name": "NoPersonGroup",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Durum güncellemesi yapılacak planlama bulunamadı.",
+		"_name": "NoPlanUpdateStatus",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Daha fazla katalog dışı talep edemezsiniz.",
+		"_name": "NoRequestNonCatalog",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Aynı eğitimciyi atayamazsınız.",
+		"_name": "NoSameInstructor",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grubun tarihlerini belirlemediniz.",
+		"_name": "NoSetDateGroup",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılmadı",
+		"_name": "NotAttend",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başarı belgesinin ismini değiştiremezsiniz.",
+		"_name": "NotChangeNameCertificate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gelmeyen Saat",
+		"_name": "NotComeHour",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Aktif analiz dönemi silinemez.",
+		"_name": "NotDeleteActivePeriod",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onaylanmış talep silinemez.",
+		"_name": "NotDeleteApprovedRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yöneticinin oluşturduğu talep silinemez.",
+		"_name": "NotDeleteMngRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bulunamadı",
+		"_name": "NotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Personele göre kural bulunamadı.",
+		"_name": "NotFoundRulesStaff",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Personelleriniz bulunamadı.",
+		"_name": "NotFoundStaffs",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Duyuru bulunamadı.",
+		"_name": "NotifyNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onaylanmamış talebiniz bulunduğu için yeni talep oluşturamazsınız.",
+		"_name": "NotNewRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "null olamaz.",
+		"_name": "NotNull",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yöneticinin atadığı talep reddedilemez.",
+		"_name": "NotRejectMngAssignRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kişisel gelişim eğitimi reddedilemez.",
+		"_name": "NotRejectPeronelCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Daha fazla kişisel gelisim eğitimi talep edemezsiniz.",
+		"_name": "NotRequestPersonelCourseMost",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Daha fazla mesleki gelisim eğitimi talep edemezsiniz.",
+		"_name": "NotRequestProfCourseMost",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Mail atılamadı.",
+		"_name": "NotSendMail",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlamadı",
+		"_name": "NotStarted",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Henüz kullanıcı eklenmedi.",
+		"_name": "NoUsersAdded",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Zorunlu Atanacak Eğitim Sayısı",
+		"_name": "NumberOfCompulsoryCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eski Grubu",
+		"_name": "OldGroup",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Online Eğitim",
+		"_name": "OnlineCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Online Eğitim Hatırlatması",
+		"_name": "OnlineCourseReminder",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Aktif analiz döneminin sadece bitiş tarihi değiştirilebilir.",
+		"_name": "OnlyEndDateChange",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Opsiyon",
+		"_name": "Option",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sıra",
+		"_name": "Order",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sıra Numarası",
+		"_name": "OrderNumber",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Organizasyon",
+		"_name": "Organization",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Organizasyonlar eklenirken hata oluştu.",
+		"_name": "OrganizationAddError",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Organizasyon verisi yok.",
+		"_name": "OrganizationDataEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Analist",
+		"_name": "OrganizationLevelForApp_analysisId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "C Level",
+		"_name": "OrganizationLevelForApp_cLevelId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Direktör",
+		"_name": "OrganizationLevelForApp_directorId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Uzman Yardımcısı",
+		"_name": "OrganizationLevelForApp_juniorId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Müdür",
+		"_name": "OrganizationLevelForApp_managerId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Uzman",
+		"_name": "OrganizationLevelForApp_seniorId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kıdemli Uzman",
+		"_name": "OrganizationLevelForApp_seniorSpecialistId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Takım Lideri",
+		"_name": "OrganizationLevelForApp_teamLeaderId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Üst Yönetim",
+		"_name": "OrganizationLevelForApp_topManagementId",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Organizasyon bulunamadı.",
+		"_name": "OrganizationNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Organize Eden",
+		"_name": "OrganizerUser",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Organizasyon id bilgisi bulunamadı.",
+		"_name": "OrgIdNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı organizasyon seviyesi bulunamadı.",
+		"_name": "OrgLvlIdNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu tarih aralığında başka bir eğitim var.",
+		"_name": "OtherCourseDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu sınıfta o aralıkta başka eğitim var.",
+		"_name": "OtherCourseDateClass",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu eğitimcinin o aralıkta başka eğitimi var.",
+		"_name": "OtherCourseDateInstructor",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katalog Dışı Talep Listesi",
+		"_name": "OutOfCatalogLimit",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sayfalamada hata alındı.",
+		"_name": "PaginationError",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sayfalamada hata alındı.",
+		"_name": "PagingError",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Parametrelerden birinin dolu olması gerekiyor.",
+		"_name": "ParametersNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Üst Organizasyon",
+		"_name": "ParentOrganization",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılımcı Listesi",
+		"_name": "ParticipantList",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılan",
+		"_name": "ParticipateCount",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılım Oranı",
+		"_name": "ParticipateRate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılma Durumu",
+		"_name": "ParticipationStatus",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Pasif",
+		"_name": "Passive",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Şifreler uyuşmuyor.",
+		"_name": "PasswordsNotMatch",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sadece müdür ve üstü için yetki var.",
+		"_name": "PermissionForManagerAndAboveOnly",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kişisel Gelişim Eğitimi",
+		"_name": "PersonelDevelopmentCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Cep Telefonu",
+		"_name": "PhoneNumber",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlama kurs tarih bilgisi bulunamadı.",
+		"_name": "PlanDateNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlama bilgileri bulunamadı.",
+		"_name": "PlanInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Salon Değişikliği",
+		"_name": "PlanningMailSendTypes_ChangeClassRoomMail",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tarih Değişikliği",
+		"_name": "PlanningMailSendTypes_ChangeDateMail",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup Değişikliği",
+		"_name": "PlanningMailSendTypes_ChangeGroupMail",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Outlook Takvim Sil",
+		"_name": "PlanningMailSendTypes_DeleteOutlook",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yeni Eğitim Ataması",
+		"_name": "PlanningMailSendTypes_NewCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Hatırlatma E-Postaları",
+		"_name": "PlanningMailSendTypes_RemainderMail",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katalogdan Seç",
+		"_name": "PlanningSourceType_KatalogEgitimi",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Taleplerden Seç",
+		"_name": "PlanningSourceType_TalepEgitimi",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Devam Ediyor",
+		"_name": "PlanningStatus_Continuing",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlama Yapıldı",
+		"_name": "PlanningStatus_FinishPlanning",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlama kullanıcıları bulunamadı.",
+		"_name": "PlanUsersNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Öncesi",
+		"_name": "PreCourseTest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu kurs daha önceden talep edildi veya reddedildi.",
+		"_name": "PrevRequestedOrRejected",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Mesleki Gelişim Eğitimi",
+		"_name": "ProfDevelopmentCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Soru",
+		"_name": "Question",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Soru Opsiyon  Tipi",
+		"_name": "QuestionOptionType",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Serbest Metin",
+		"_name": "QuestionOptionType_FreeText",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Çoklu Seçim",
+		"_name": "QuestionOptionType_MultipleSelection",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tekli Seçim",
+		"_name": "QuestionOptionType_SingleSelection",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılmıyorum",
+		"_name": "QuestionOptionValue_Score1",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kararsızım",
+		"_name": "QuestionOptionValue_Score2",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kısmen Katılıyorum",
+		"_name": "QuestionOptionValue_Score3",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılıyorum",
+		"_name": "QuestionOptionValue_Score4",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kesinlikle Katılıyorum",
+		"_name": "QuestionOptionValue_Score5",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Gerekçe",
+		"_name": "Reason",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sicil No",
+		"_name": "RegisterNo",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı sicil no bulunamadı.",
+		"_name": "RegisterNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Red nedeni boş olamaz.",
+		"_name": "RejectReasonNotEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Red Nedeni Bulunamadı",
+		"_name": "RejectReasonNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Reddedilmiş talep.",
+		"_name": "RejectRequest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "raporlar organizasyon bazında",
+		"_name": "ReportOrganizationBase",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Raporlar tümünü yazdır.",
+		"_name": "ReportPrintAll",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep Edilebilir",
+		"_name": "Requestable",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep Onay Yüzdesi",
+		"_name": "RequestApprovalPercentage",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep Onay Red",
+		"_name": "RequestApprovalRejection",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu kursu talep etmek için önce",
+		"_name": "RequestCourseFirst",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep Tarihi",
+		"_name": "RequestDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep Eden",
+		"_name": "Requester",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İstek alınırken hata alındı.",
+		"_name": "RequestError",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep bulunamadı.",
+		"_name": "RequestNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep oranı en az",
+		"_name": "RequestRateLeast",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kurs Talep Red Nedeni",
+		"_name": "RequestRejectReason",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep Onay Red İsmi",
+		"_name": "RequestRejectReasonName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep Onay Red Tipi",
+		"_name": "RequestRejectReasonType",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Talep daha önce gönderilmiş.",
+		"_name": "RequestSentBefore",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Onay Gerekli",
+		"_name": "RequireApproval",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Rol",
+		"_name": "Role",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlama yapılırken hata alındı kayıtlar geri alındı",
+		"_name": "RollbackPlan",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kurallar",
+		"_name": "Rules",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bu isimde bir şehir eklenmiş.",
+		"_name": "SameNameCity",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Skor",
+		"_name": "Score",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Scorm boş olamaz.",
+		"_name": "ScormNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Saniye",
+		"_name": "Second",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Servis kullanıcı adı bulunamadı.",
+		"_name": "ServiceNameNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Servis kullanıcı adını yanlış girdiniz.",
+		"_name": "ServiceNameWrong",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İmza",
+		"_name": "Signature",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İMZA LİSTESİ",
+		"_name": "SignatureList",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Boyut",
+		"_name": "Size",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sp Adı boş olamaz.",
+		"_name": "SpNameNotNull",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlangıç Tarihi",
+		"_name": "StartDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlamasına",
+		"_name": "StartOfProcess",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Durum",
+		"_name": "Status",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başarılı",
+		"_name": "Success",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Anket",
+		"_name": "Survey",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Ortamının Değerlendirilmesi",
+		"_name": "SurveyCategoryType_CourseLocationEvaluation",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitimin Planlanması ve Uygulanması",
+		"_name": "SurveyCategoryType_CoursePlan",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Sonu Kazanımlar",
+		"_name": "SurveyCategoryType_EndOfCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılımcı Profili",
+		"_name": "SurveyCategoryType_ExhibitorProfile",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Genel Değerlendirme",
+		"_name": "SurveyCategoryType_GeneralEvaluation",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitmenin Değerlendirilmesi",
+		"_name": "SurveyCategoryType_InsructorEvaluation",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Anket Adı",
+		"_name": "SurveyName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Anket bulunamadı.",
+		"_name": "SurveyNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Anket Tipi",
+		"_name": "SurveyType",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Sonrası",
+		"_name": "SurveyType_AfterCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Sonrası Yönetici",
+		"_name": "SurveyType_AfterCourseManager",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Diğer Anketler",
+		"_name": "SurveyType_OtherSurvey",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Öncesi",
+		"_name": "SurveyType_PreCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kurs Talep Red Nedeni",
+		"_name": "TalepRejectReasons_CourseRequestRejectReason",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup Değiştirme Sebebi",
+		"_name": "TalepRejectReasons_GroupChangeReason",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup Değiştirme Red Sebebi",
+		"_name": "TalepRejectReasons_GroupChangeRejectReason",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Hedef Tarih",
+		"_name": "TargetDate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "şablon bilgisi bulunamadı",
+		"_name": "TemplateInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Test",
+		"_name": "Test",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı test kurs öğesi güncellenemez.",
+		"_name": "TestCourseNotUpdate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Test Süresi",
+		"_name": "TestDuration",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Test Açıklaması",
+		"_name": "TestExplanation",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Test bilgisi bulunamadı.",
+		"_name": "TestInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Test Adı",
+		"_name": "TestName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Sonrası",
+		"_name": "TestType_AfterCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Sonrası Yönetici",
+		"_name": "TestType_AfterCourseManager",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Öncesi",
+		"_name": "TestType_PreCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlık",
+		"_name": "Title",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Konu",
+		"_name": "Topic",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Üst Menü İçerik",
+		"_name": "TopMenuContent",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Toplam Ders Saati",
+		"_name": "TotalCourseHour",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İlçe",
+		"_name": "Town",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İlçe İsmi",
+		"_name": "TownName",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "İlçeler",
+		"_name": "Towns",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tanıtım Video Url",
+		"_name": "TrailerUrl",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tip",
+		"_name": "Type",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Güncelleme",
+		"_name": "Update",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Güncelleme yapılırken hata alındı",
+		"_name": "UpdateErrorData",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Update işlemi yapılamaz.",
+		"_name": "UpdateProcessNot",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı kurs tarih bilgileri bulunamadı.",
+		"_name": "UserCourseDateNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kulllanıcı kurs bilgisi bulunamadı.",
+		"_name": "UserCourseInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı Kurs Statüsü",
+		"_name": "UserCourseStatus",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim durumu bilgisi boş olamaz.",
+		"_name": "UserCourseStatusRequired",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sertifika",
+		"_name": "UserCourseStatus_Certificate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Tamamlandı",
+		"_name": "UserCourseStatus_Completed",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Başladı",
+		"_name": "UserCourseStatus_CourseBegin",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Bitti",
+		"_name": "UserCourseStatus_CourseFinish",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Eğitim Başlamadı",
+		"_name": "UserCourseStatus_CourseNotBegin",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Grup Değiştirme",
+		"_name": "UserCourseStatus_GroupChange",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Katılmadı",
+		"_name": "UserCourseStatus_NotParticipate",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Planlama Onayı Bekliyor",
+		"_name": "UserCourseStatus_PlnaninFinish",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Son Anket",
+		"_name": "UserCourseStatus_PostSurvey",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Son Test",
+		"_name": "UserCourseStatus_PostTest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Ön Anket",
+		"_name": "UserCourseStatus_PreSurvey",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Ön Test",
+		"_name": "UserCourseStatus_PreTest",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı mail bilgisi boş.",
+		"_name": "UserEmailEmpty",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı mail geçersiz.",
+		"_name": "UserEmailInvalid",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcının grup tarih bilgileri bulunamadı.",
+		"_name": "UserGroupDateNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanım Kılavuzu Url",
+		"_name": "UserGuideUrl",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı guid bilgisi bulunamadı.",
+		"_name": "UserGuidNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı UserId bilgisi bulunamadı.",
+		"_name": "UserIdNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı bilgileri bulunamadı.",
+		"_name": "UserInfoNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı mail grubunda var.",
+		"_name": "UserMailExist",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı adı bulunamadı.",
+		"_name": "UserNameNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı bulunamadı.",
+		"_name": "UserNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı login değil.",
+		"_name": "UserNotLogin",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı yetkileri bulunamadı.",
+		"_name": "UserRolesNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı oturum bilgilerinde hata alındı.",
+		"_name": "UserSessionError",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kullanıcı oturum bilgileri bulunamadı.",
+		"_name": "UserSessionNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Kişiler bulunamadı.",
+		"_name": "UsersNotFound",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bitti",
+		"_name": "UserSurveyStatus_Completed",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Devam Ediyor",
+		"_name": "UserSurveyStatus_Continuing",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlamadı",
+		"_name": "UserSurveyStatus_NotStarted",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Bitti",
+		"_name": "UserTestStatus_Completed",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Devam Ediyor",
+		"_name": "UserTestStatus_Continuing",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlamadı",
+		"_name": "UserTestStatus_NotStarted",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Video Eğitimi",
+		"_name": "VideoCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sanal Sınıf",
+		"_name": "VirtualClass",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Sanal Sınıf Eğitimi",
+		"_name": "VirtualClassroomCourse",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Başlaması Bekleniyor",
+		"_name": "WaitingToStart",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Yıl",
+		"_name": "Year",
+		"_xml:space": "preserve"
+	},
+	{
+		"value": "Evet",
+		"_name": "Yes",
+		"_xml:space": "preserve"
+	}
+]
+
+}
